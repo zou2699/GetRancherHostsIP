@@ -1,5 +1,6 @@
 # GetRancherHostsIP
 
+**tree**
 ```bash
 .
 |-- conf
@@ -7,6 +8,7 @@
 |-- app
 ```
 
+**./conf/conf.yaml**
 ```yaml
 envs:
   - env: 
